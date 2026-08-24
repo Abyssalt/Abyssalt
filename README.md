@@ -2,7 +2,7 @@
 
 ![Melvyn Paul](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:FF00E5&height=220&section=header&text=Melvyn%20Paul&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Developer&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Melvyn+%F0%9F%91%8B;Junior+Developer+%F0%9F%92%BB;Backend+%7C+Mobile+%7C+DevOps;C%23+%7C+Java+%7C+Python+%7C+Kotlin;Always+learning.+Always+building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Melvyn+%F0%9F%91%8B;Junior+Developer+%F0%9F%92%BB;Frontend+%7C+Backend+%7C+Mobile+%7C+DevOps;C%23+%7C+Java+%7C+Python+%7C+Kotlin;Always+learning.+Always+building." alt="Typing SVG"/>
 
 <a href="https://abyssalt.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" />
