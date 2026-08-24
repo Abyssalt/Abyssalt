@@ -184,13 +184,13 @@ alt="GitHub Streak"
 
 # `> education`
 
-### Haute École Robert Schuman - Libramont (Belgium)
+### [Haute École Robert Schuman - Libramont (Belgium)](https://hers.be/formations/economique/bachelier-en-informatique/)
 
 **Programmation License - Applications development orientation**
 
 `2022 - 2026`
 
-### Institut des Arts & Métiers de Pierrard - Virton
+### [Institut des Arts & Métiers de Pierrard - Virton](https://pierrard.be/fiche/technicien-en-informatique/)
 
 **IT Technician**
 
