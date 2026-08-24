@@ -115,10 +115,17 @@ alt="GitHub Streak"
 
 <div align="center">
 
+<img
+src="./assets/projects/cyberquiz_logo.png"
+alt="CyberQuiz"
+width="80"
+/>
+
 ## CyberQuiz
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
 </div>
 
@@ -127,12 +134,20 @@ alt="GitHub Streak"
 **Highlights**
 
 * Kotlin mobile app
+
 * Room database
+
 * Production deployment coming
 
 ---
 
 <div align="center">
+
+<img
+src="./assets/projects/kinestat_logo.png"
+alt="KineStat"
+width="140"
+/>
 
 ## KineStat
 
@@ -147,7 +162,9 @@ alt="GitHub Streak"
 **Highlights**
 
 * C# app
+
 * PostgreSQL database
+
 * Developed within a team of six developers
 
 ---
@@ -184,17 +201,39 @@ alt="GitHub Streak"
 
 # `> education`
 
+<div align="center">
+
+<img
+  src="https://hers.be/wp-content/uploads/2024/02/cropped-HERS-FOND-BLANC-v2.png"
+  alt="Haute École Robert Schuman"
+  width="180"
+/>
+
 ### [Haute École Robert Schuman - Libramont (Belgium)](https://hers.be/formations/economique/bachelier-en-informatique/)
 
-**Programmation License - Applications development orientation**
+**Programming License - Applications Development Orientation**
 
 `2022 - 2026`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://imgs.search.brave.com/VXDKDXjUm8mbQWiRi58FtY6lV14af93kOYG7mXRwxXw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ncmFw/aC5mYWNlYm9vay5j/b20vMTAzMjkwODE5/ODAyNTY3L3BpY3R1/cmU_dHlwZT1sYXJn/ZQ"
+  alt="Institut des Arts et Métiers de Pierrard"
+  width="50"
+/>
 
 ### [Institut des Arts & Métiers de Pierrard - Virton](https://pierrard.be/fiche/technicien-en-informatique/)
 
 **IT Technician**
 
 `2020 - 2022`
+
+</div>
 
 ---
 
