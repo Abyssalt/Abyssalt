@@ -73,7 +73,7 @@ I'm particularly interested in building pratical applications and improving my s
 ### Other
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=debian,idea,linux,windows,md,visualstudio,vscode," />
+<img src="https://skillicons.dev/icons?i=debian,idea,linux,windows,md,visualstudio,vscode" />
 </p>
 
 
