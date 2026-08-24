@@ -173,15 +173,24 @@ alt="GitHub Streak"
 
 ---
 
-# Education
+# `> experience`
+
+```text
+> 2022
+
+> Rcarre - Capellen, Luxembourg
+> Intern - IT Technician
+```
+
+---
+
+# `> education`
 
 ### Haute École Robert Schuman - Libramont (Belgium)
 
-**Programmation license - Application development orientation**
+**Programmation License - Applications development orientation**
 
 `2022 - 2026`
-
----
 
 ### Institut des Arts & Métiers de Pierrard - Virton
 
@@ -191,27 +200,12 @@ alt="GitHub Streak"
 
 ---
 
-# Experience
+<div align="center">
 
-### Rcarre - Capellen, Luxembourg
+### `> Always learning. Always building. ⚡`
 
-**Intern - IT Technician**
+<br>
 
-`2022`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:7B2FFF,100:00F5FF&height=120&section=footer" width="100%"/>
 
----
-
-# Languages
-
-| Language     | Level  |
-| ------------ | ------ |
-| 🇫🇷 French  | Native   |
-| 🇬🇧 English | B1     |
-
-
-
----
-
-
-
----
+</div>
