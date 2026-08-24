@@ -76,35 +76,108 @@ I'm particularly interested in building pratical applications and improving my s
 <img src="https://skillicons.dev/icons?i=debian,idea,linux,windows,md,visualstudio,vscode" />
 </p>
 
+---
 
+# Featured Projects
 
+## CyberQuiz
 
+A mobile quiz application covering a variety of computer science and IT topics.
 
+### Technologies
 
+* Kotlin
+* Room
+* Android
 
+The application is designed with production deployment in mind.
 
+---
 
+## KineStat
 
+A patient monitoring and management application designed for physiotherapists.
 
+### Technologies
 
+* C#
+* PostgreSQL
+* ASP .NET
 
+The project was developed as part of a team of six developers.
 
+---
 
+## Student Management Application
 
+An application for monitoring students at the Haute Ecole Robert Schuman.
 
+### Technologies
 
+* Java
+* Spring Boot
 
+Developed as part of a six developers.
 
+---
 
+# Education
 
+### Haute École Robert Schuman - Libramont (Belgium)
 
+**Programmation license - Application development orientation**
 
+`2022 - 2026`
 
+---
 
+### Institut des Arts & Métiers de Pierrard - Virton
 
+**IT Technician**
 
+`2020 - 2022`
 
+---
 
+# Experience
+
+### Rcarre - Capellen, Luxembourg
+
+**Intern - IT Technician**
+
+`2022`
+
+---
+
+# Languages
+
+| Language     | Level  |
+| ------------ | ------ |
+| 🇫🇷 French  | Native   |
+| 🇬🇧 English | B1     |
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=Abyssalt&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abyssalt\&theme=tokyo-night\&hide_border=true)
+
+</div>
 
 ---
 
