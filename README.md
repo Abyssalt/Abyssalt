@@ -191,10 +191,10 @@ width="140"
 # `> experience`
 
 ```text
-> 2022
-
-> Rcarre - Capellen, Luxembourg
 > Intern - IT Technician
+> Rcarre - Capellen, Luxembourg
+
+> 2022 - 1 month
 ```
 
 ---
