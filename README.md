@@ -59,14 +59,6 @@ alt="GitHub Streak"
 
 ---
 
-# `> activity`
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abyssalt\&theme=tokyo-night\&hide_border=true)
-
-</div>
-
 # `> stack`
 
 <div align="center">
