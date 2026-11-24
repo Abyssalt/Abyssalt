@@ -129,7 +129,7 @@ width="80"
 
 * Room database
 
-* Production deployment coming
+* In production - Play Store
 
 ---
 
